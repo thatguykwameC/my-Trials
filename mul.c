@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+This function takes two numbers, multiplies
+and return the product
+*/
 
 int mul(int a, int b)
 {
